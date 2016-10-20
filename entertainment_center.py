@@ -35,4 +35,5 @@ def load_movies_data(filename):
 
 if __name__ == "__main__":
     movies = load_movies_data(MOVIES_FILE)
+    movies.sort(key=lambda m: m.title)
     fresh_tomatoes.open_movies_page(movies)
