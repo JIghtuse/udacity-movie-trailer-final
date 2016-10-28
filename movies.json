@@ -1,0 +1,44 @@
+[
+	{
+		"title": "Toy Story",
+		"duration": 81,
+		"storyline": "A story of a boy and his toys that come to life",
+		"poster_image_url": "http://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg",
+		"trailer_youtube_url": "https://www.youtube.com/watch?v=vwyZH85NQC4"
+	},
+	{
+		"title": "Avatar",
+		"duration": 161,
+		"storyline": "A marine on an alien planet",
+		"poster_image_url": "https://upload.wikimedia.org/wikipedia/en/b/b0/Avatar-Teaser-Poster.jpg",
+		"trailer_youtube_url": "https://www.youtube.com/watch?v=5PSNL1qE6VY"
+	},
+	{
+		"title": "Fountain",
+		"duration": 96,
+		"storyline": "Epic drama film that blends elements of fantasy, history, spirituality, and science fiction",
+		"poster_image_url": "https://upload.wikimedia.org/wikipedia/en/e/ee/Fountain_poster_1.jpg",
+		"trailer_youtube_url": "https://www.youtube.com/watch?v=dAuxryJ6pv8"
+	},
+	{
+		"title": "K-PAX",
+		"duration": 121,
+		"storyline": "Story of a mysterious patient at a mental hospital who claims to be from a distant planet called K-PAX.",
+		"poster_image_url": "https://upload.wikimedia.org/wikipedia/en/e/e4/Kpax.jpg",
+		"trailer_youtube_url": "https://www.youtube.com/watch?v=UfcbshzkvUs"
+	},
+	{
+		"title": "Interstellar",
+		"duration": 169,
+		"storyline": "Looking for a new home for humanity",
+		"poster_image_url": "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg",
+		"trailer_youtube_url": "https://www.youtube.com/watch?v=zSWdZVtXT7E"
+	},
+	{
+		"title": "Prestige",
+		"duration": 130,
+		"storyline": "An illusion gone horribly wrong pits two 19th-century magicians, Alfred Borden and Rupert Angier, against each other in a bitter battle for supremacy.",
+		"poster_image_url": "https://upload.wikimedia.org/wikipedia/en/d/d2/Prestige_poster.jpg",
+		"trailer_youtube_url": "https://www.youtube.com/watch?v=o4gHCmTQDVI"
+	}
+]
